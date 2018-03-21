@@ -1,0 +1,19 @@
+.form-group {
+  max-width: 300px;
+}
+
+#addoutput {
+  height: 40px;
+}
+
+#suboutput {
+  height: 40px;
+}
+
+#muloutput{
+  height: 40px;
+}
+
+#divoutput {
+  height: 40px;
+}
